@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Program01_HelloWorld1/Program01_HelloWorld1.vcxproj" />
+</Solution>
